@@ -14,6 +14,7 @@ __pycache__/
 
 # Lab artifacts: weights stay local. The small evidence files below ARE committed,
 # because the auto-grader reads only what is in the repo.
+models
 models/
 adapters/*
 !adapters/.gitkeep
@@ -48,4 +49,7 @@ hf_cache/
 .DS_Store
 .idea/
 .vscode/
-*.swp
+*.swp 
+
+
+
